@@ -10,7 +10,7 @@ https://automated-banana-farming-879626.spheron.app/
 It allows automacy in the farming process and reduce the labour cost,time and increase the production within the same land.
 
 ## How we built it
-The project tackled the challenges of feeding a growing population sustainably using technologies like Pygame, NumPy, and CNN. Deep reinforcement learning and the YOLOv3 algorithm were implemented, while leveraging Postman API.Orcus,Spheron,Quine, FastAPI, and React.js. 
+The project tackled the challenges of feeding a growing population sustainably using technologies like Pygame, NumPy, and CNN. Deep reinforcement learning and the YOLOv3 algorithm were implemented, while leveraging ,Spheron,FastAPI, and React.js. 
 
 
 
