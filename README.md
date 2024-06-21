@@ -5,7 +5,15 @@
 https://automated-banana-farming-879626.spheron.app/
 
 ## YOUTUBE_VIDEO
-[![Click to watch on YouTube]()](https://www.youtube.com/watch?v=BGIOwijzao0)
+
+
+https://github.com/vandit98/automated_banana_farming_/assets/91458535/b3cf002c-f5c2-4d77-a97f-47ee545cd389
+
+
+### Autonomous rover driving demo
+
+
+https://github.com/vandit98/automated_banana_farming_/assets/91458535/208f5fba-e46f-4ae0-a8b0-a6a8cf2cbe6f
 
 
 ## What it does
@@ -14,7 +22,27 @@ It allows automacy in the farming process and reduce the labour cost,time and in
 ## How we built it
 The project tackled the challenges of feeding a growing population sustainably using technologies like Pygame, NumPy, and CNN. Deep reinforcement learning and the YOLOv3 algorithm were implemented, while leveraging ,Spheron,FastAPI, and React.js. 
 
+### Inputs
 
+The main informations the car will use to drive are the distance to the walls in front and next of it. The car has 5 sensors :
+
+- In front,
+- 2 in the diagonals
+- 2 on each side
+
+The sensors are represented by a green line in the rendering. Red means the sensor is detecting a wall.
+
+![Screenshot from 2024-06-21 08-17-33](https://github.com/vandit98/automated_banana_farming_/assets/91458535/06994d32-9cad-47ea-846e-6bd48c31fcbd)
+
+
+### Outputs
+
+The outputs are obviously the car's actions. The car has 4 possible actions:
+
+- Turn left
+- Turn right
+- Accelerate
+- Brake
 
 ## Who will get benefit
 A large sector of people including:
